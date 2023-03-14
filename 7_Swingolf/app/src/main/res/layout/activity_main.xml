@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity"
+        android:background="@color/hellgruen">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Willkommen in der"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="75dp"
+            android:textSize="17sp"
+            android:layout_alignParentTop="true"
+            android:textColor="@color/dunkelgruen"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SwinGolf App"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="90dp"
+            android:layout_alignParentTop="true"
+            android:textColor="@color/dunkelgruen"
+            android:textSize="33sp"
+            android:textStyle="bold"/>
+
+    <Button
+            android:id="@+id/swinGolfAnlageBearbeiten"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:text="Swingolf Anlage Bearbeiten"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="280dp"
+            android:layout_centerHorizontal="true"
+            android:backgroundTint="@color/dunkelgruen"/>
+
+    <Button
+            android:id="@+id/spielerinnenBearbeiten"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:text="Spieler/innen bearbeiten"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="230dp"
+            android:layout_centerHorizontal="true"
+            android:backgroundTint="@color/dunkelgruen"/>
+
+    <Button
+            android:id="@+id/neuesSpielStarten"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:text="neues Spiel Starten"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="180dp"
+            android:backgroundTint="@color/dunkelgruen"
+            android:layout_centerHorizontal="true"/>
+
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/hauptmenuebild"
+            android:id="@+id/imageView"
+            android:scaleType="fitEnd"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

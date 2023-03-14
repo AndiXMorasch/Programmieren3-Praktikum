@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SimpleAudioPlayer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/SimpleAudioPlayer.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/docs/SimpleAudioPlayerDoc.zip!/SimpleAudioPlayerDoc/SimpleAudioPlayer" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

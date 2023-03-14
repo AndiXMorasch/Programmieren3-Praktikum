@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b739004-e46b-483b-b0b7-6719c75559b1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28Q05SBqi34yKXcIX2ai31Qj0nz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Admin/OneDrive/3. Semester/2_Programmieren III/2_Praktika/Test2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\OneDrive\3. Semester\2_Programmieren III\2_Praktika\4_Praktikum\src\de\hsos\prog3\ab4\pong\ui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\OneDrive\3. Semester\2_Programmieren III\2_Praktika\4_Praktikum\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.hsos.prog3.ab4.pong.ui.App" />
+      <module name="AB_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.hsos.prog3.ab4.pong.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeyEventDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.hsos.prog3.ab4.pong.ui.KeyEventDemo" />
+      <module name="AB_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.hsos.prog3.ab4.pong.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RechteckTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.hsos.prog3.ab4.pong.ui.RechteckTest" />
+      <module name="AB_04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.hsos.prog3.ab4.pong.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.KeyEventDemo" />
+        <item itemvalue="Application.RechteckTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b739004-e46b-483b-b0b7-6719c75559b1" name="Changes" comment="" />
+      <created>1651133323113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651133323113</updated>
+      <workItem from="1651133326385" duration="4384000" />
+      <workItem from="1651149167215" duration="6441000" />
+      <workItem from="1651220640474" duration="14393000" />
+      <workItem from="1651235404225" duration="519000" />
+      <workItem from="1651236160312" duration="7257000" />
+      <workItem from="1651244848808" duration="209000" />
+      <workItem from="1651256867138" duration="3710000" />
+      <workItem from="1651402136132" duration="6799000" />
+      <workItem from="1651426685121" duration="369000" />
+      <workItem from="1651589639800" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
